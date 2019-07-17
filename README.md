@@ -17,6 +17,8 @@ FriendFinder
     - server.js
 
 
+Heroku: https://git.heroku.com/tarafriendfinder.git
+
 Instructions
 
 
