@@ -6,7 +6,7 @@ Heroku: https://tarafriendfinder.herokuapp.com
 
 
 ## Instructions
-In the survey page there are 10 questions. Each answer should be on a scale of 1 = STRONGLY AGREE to 5 = STRONGLY DISAGREE based on the users choice. Once the user had filled out the survey and clicked submit, a modal will display the best possible match.
+In the survey page there are 10 questions. Each answer should be on a scale of 1 = STRONGLY DISAGREE to 5 = STRONGLY AGREE based on the users choice. Once the user had filled out the survey and clicked submit, a modal will display the best possible match.
 
 ## Screen shot Examples
 Home Page
