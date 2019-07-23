@@ -9,15 +9,17 @@ Heroku: https://tarafriendfinder.herokuapp.com
 In the survey page there are 10 questions. Each answer should be on a scale of 1 = STRONGLY AGREE to 5 = STRONGLY DISAGREE based on the users choice. Once the user had filled out the survey and clicked submit, a modal will display the best possible match.
 
 ## Screen shot Examples
-
-![Image 1](/images/friend1.png)
 Home Page
-![Image 2](/images/friend2.png)
+![Image 1](/images/friend1.png)
+
 Survey Questions
-![Image 2](/images/friend3.png)
+![Image 2](/images/friend2.png)
+
 Fill in all question feilds
-![Image 2](/images/friend4.png)
+![Image 2](/images/friend3.png)
+
 Display modal for the best friend match
+![Image 2](/images/friend4.png)
 
 
 
